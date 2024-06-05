@@ -1,5 +1,5 @@
 
-![Alt text](images/example.png)
+![Alt text](Iqraa-AI/Iqraa-logo.png)
 
 
 
